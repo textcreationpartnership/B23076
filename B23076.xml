@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The form of the oaths, as also of the passe, required by the convention with Denmarke.</title>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23076</idno><idno type="EEBO-CITATION">99884181</idno>
+  <idno type="VID">187478</idno>
+  <idno type="EEBO-PROQUEST">2248519191</idno>
+  
+            <idno type="STC">Wing F1578</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.7[50*]</idno>
+            <idno type="STC">ESTC R214050</idno>
+            <idno type="PROQUEST">ocm99884181</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884181e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23076)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187478)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:1[52])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The form of the oaths, as also of the passe, required by the convention with Denmarke.</title>
+               </titleStmt>
+               <extent>13 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Printed in two columns.</note>
+                  <note>In Latin and English.</note>
+                  <note>P. 9-13: "Copy of the 11th and 12 articles of the treaty with Sweden, concluded in 1661. With the form of the passport or passe."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Foreign relations --  Denmark --  Early works to 1800.</term>
+               <term type="geographic_name">Denmark --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Susie Lorand </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:187478:1"/>
+            <head>THE Form of the Oaths, As also of the PASSE, Required by the Convention with Denmarke.</head>
+            <div xml:lang="lat" type="version">
+               <head>In Latin.</head>
+               <div type="oath">
+                  <head>Formula Juramenti à Pro<g ref="char:EOLhyphen"/>prietario Navis &amp; oneris cum unicus est praestan<g ref="char:EOLhyphen"/>di.</head>
+                  <p>
+                     <hi>EGo A. B. verus Sacrae Regiae Majestatis Daniae &amp; Norvegiae subditus &amp; Civitatis Hafniensis In<g ref="char:EOLhyphen"/>cola (Officialis) juratus, hoc meo solenni juramento Sancte &amp; sincere profiteor &amp; promitto, quae sequuntur omnia &amp; singula.</hi>
+                  </p>
+                  <div n="1" type="part">
+                     <pb n="2" facs="tcp:187478:2"/>
+                     <head>I.</head>
+                     <p>
+                        <hi>Quod Navis cui nomen</hi> N. N. <hi>Centum aut circiter Lastarum capax tota &amp; integra ad me solum nec▪ ad ullum alium revera pertineat.</hi>
+                     </p>
+                  </div>
+                  <div n="2" type="part">
+                     <head>II.</head>
+                     <p>
+                        <hi>Quod revera statuerim, certum<g ref="char:EOLhyphen"/>que habeam supradictam Navem, quae nunc in portu Hasniensi (aut ali<g ref="char:EOLhyphen"/>bi</hi> N. N. <hi>est) exinde sub ductu</hi> N. N. <hi>praedictae Civitatis Hafniensis (aut alibi</hi> N. N.) <hi>Incolae &amp; Civis jurati tanquam Navarchi recta (in Norvegiam &amp; exinde) Burdegalam (aut ad alia loca) in Galliam ituram, &amp; Burdegalâ (aut aliis locis) ad dictum portum Hafniensem aut ali<g ref="char:EOLhyphen"/>um quendam ad Sacrae Regiae Maje<g ref="char:EOLhyphen"/>statis Daniae &amp; Norvegiae Ditiones extra Imperium Germanicum sitas pertinentem recta reversuram, nec postquam ex Dania aut Norvegia solverit usque dum to denuo reverta<g ref="char:EOLhyphen"/>tur, ullum alium locum quam Galli<g ref="char:EOLhyphen"/>am nisi tempestate forsan coactam, petituram.</hi>
+                     </p>
+                  </div>
+                  <div n="3" type="part">
+                     <pb n="3" facs="tcp:187478:2"/>
+                     <head>III.</head>
+                     <p>Quod nullam cum quovis collu<g ref="char:EOLhyphen"/>sionem aut contractum directe vel in<g ref="char:EOLhyphen"/>directe, jam fecerim, nec durante hu<g ref="char:EOLhyphen"/>jus expeditionis cursu, cum ullo extra<g ref="char:EOLhyphen"/>neo aut partium Imperio Romano subje<g ref="char:EOLhyphen"/>ctarum Cive aut Incola posthac factu<g ref="char:EOLhyphen"/>rus sim, de Navis supradictae ejusve mercium proprietate ex toto aut ex parte ad alium quemvis transferenda, ut nec etiam cum ullo serenissimi &amp; potentis<g ref="char:EOLhyphen"/>simi Regis Daniae &amp; Norvegiae sub<g ref="char:EOLhyphen"/>dito, nisi hic subditus ad omnes prae<g ref="char:EOLhyphen"/>sentis juramenti Articulos, quantum attinet rem ipsi transferendam obser<g ref="char:EOLhyphen"/>vandos simili juramento prius obstrin<g ref="char:EOLhyphen"/>gatur.</p>
+                  </div>
+                  <div n="4" type="part">
+                     <head>IV.</head>
+                     <p>Quod supradicta Navis jam non sit onusta, nec usque dum praedicta Ex<g ref="char:EOLhyphen"/>peditio absoluta fuerit, me sciente, mandante, consentiente, aut conni<g ref="char:EOLhyphen"/>vente, posthac oneretur, ex toto aut ex parte Mercibus de <hi>Contrabande</hi> dictis Sacrae Regiae Majestatis Daniae &amp; Norvegiae Edicto, die &amp; mense dato, prohibitis, aliisve ullis, quam quae ad me solum, nullumque alium, absque omni fraude &amp; collusione re<g ref="char:EOLhyphen"/>vera pertinent, quas solas, nec ullas alias in Galliam vehet; aut inde ex<g ref="char:EOLhyphen"/>portabit.</p>
+                  </div>
+                  <div n="5" type="part">
+                     <pb n="4" facs="tcp:187478:3"/>
+                     <head>V.</head>
+                     <p>Nec ullas omnino merces in Galliam vehet, quae in locis Imperio subjectis, aliisve bello presenti implicitis, onustae sunt, nec merces ullaes in Gallia semel onustas in altero Galliae portu, aut in locis dictis, quae Imperio subjiciuntur, aut bello presenti implicantur, in re<g ref="char:EOLhyphen"/>ditu, si forsan vi tempestatis ad ejus<g ref="char:EOLhyphen"/>modi loca appellere coacta fuerit, ex<g ref="char:EOLhyphen"/>onerabit.</p>
+                  </div>
+                  <div n="6" type="part">
+                     <head>VI.</head>
+                     <p>Quod nullum Mandatum aut Fa<g ref="char:EOLhyphen"/>cultatem praedicto Navarcho aut ulli alii jam concesserim aut durante prae<g ref="char:EOLhyphen"/>dictae expeditionis cursu, concessurus sim, quid faciendi, quod cuidam ex praedictis Articulis vel minimum ad<g ref="char:EOLhyphen"/>versetur, nec tale quid a quovis, me sciente aut connivente fieri permittam. Ita me adjuvet Deus, ipsiusque Ver<g ref="char:EOLhyphen"/>bum sacrosanctum.</p>
+                  </div>
+               </div>
+               <div type="oath">
+                  <pb n="5" facs="tcp:187478:3"/>
+                  <head>Formula Juramenti a Na<g ref="char:EOLhyphen"/>varcho praestandi.</head>
+                  <p>Ego <hi>N. N.</hi> supradictae Navis Navarchus Sacrae Regiae Majestatis Daniae &amp; Norvegiae verus subditus, &amp; Civitatis Hafniensis Incola ac Civis Juratus, hoc meo solenni Ju<g ref="char:EOLhyphen"/>ramento Sancte profiteor &amp; promitto, nihil quod sciam quod cuidam ex Articulis supradictis adversetur, jam factum esse, aut posthac, me sciente, mandante connivente aut directe vel indirecte consensum praebente, factum iri. Ita me adjuvet, &amp;c.</p>
+               </div>
+               <div type="oath">
+                  <head>Formula Juramenti à pro<g ref="char:EOLhyphen"/>prietariis, cum plures sunt, praestandi.</head>
+                  <p>Nos infra nominati Sacrae Regiae Majestatis Daniae &amp; Norvegiae veri subditi, &amp; Civitatis Hafniensis Incolae &amp; Cives Jurati (Officiales) hoc Nostro solenni Juramento sancte &amp; sincere profitemur &amp; promittimus, quae sequuuntur omnia &amp; singula.</p>
+                  <div n="1" type="part">
+                     <pb n="6" facs="tcp:187478:4"/>
+                     <head>I.</head>
+                     <p>Quod Navis cui nomen N. N. cen<g ref="char:EOLhyphen"/>tum circiter lastarum capax, tota &amp; integra ad Nos solos revera perti<g ref="char:EOLhyphen"/>neat, ut sequitur; ad A. B. 1/9 ad E. F. 2/9 ad G. H. 4/9 &amp; ad I. K. 2/9.</p>
+                  </div>
+                  <div n="2" type="part">
+                     <head>II.</head>
+                     <p>Quod revera inter Nos conclusum sit, supradictam Navem, <hi>&amp;c.</hi>
+                     </p>
+                  </div>
+                  <div n="3" type="part">
+                     <head>III.</head>
+                     <p>Quod nullus nostrum cum quovis collusionem aliquam aut contractum directe aut indirecte jam fecerit, aut postmodum, durante hujus expediti<g ref="char:EOLhyphen"/>onis cursu, facturus sit, de dicta no<g ref="char:EOLhyphen"/>stra Navis aut oneris infra nominan<g ref="char:EOLhyphen"/>dà Portione ad alium quemvis trans<g ref="char:EOLhyphen"/>ferenda.</p>
+                  </div>
+                  <div n="4" type="part">
+                     <head>IV.</head>
+                     <p>Quod supradicta Navis jam non sit onusta nec usquedum predicta ex<g ref="char:EOLhyphen"/>peditio perfecta fuerit nobis aut aliquo nostrum Scientibus Consentientibus, <hi>&amp;c.</hi> quam quae ad nos solos absque, <hi>&amp;c.</hi> revera pertinent ut sequitur ad A. B. 10 Lastae, ad L. M. 60 Lastae, &amp; ad O. P. 30 Lastae, cujusmodi mer<g ref="char:EOLhyphen"/>ces solas nec ullas alias, <hi>&amp;c.</hi>
+                     </p>
+                     <p>Reliqua ut in superiori formula, Mutatis mutandis.</p>
+                  </div>
+               </div>
+               <div type="form">
+                  <pb n="7" facs="tcp:187478:4"/>
+                  <head>Formula Literarum Salvi-Conductus.</head>
+                  <p>
+                     <hi>NOS Christianus Quintus (tot. Tit.) Omnibus &amp; singulis quibus hae nostrae salvi Conductus li<g ref="char:EOLhyphen"/>terae exhibebuntur, notum testatumque volumus quod Subditus noster N. N. Civitatis nostrae Regiae Hafniensis Incola ac civis juratus (Officialis noster) humillime nobis exponi cura<g ref="char:EOLhyphen"/>verit Navem cui Nomen N. N.</hi>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> Lastarum capacem, quae nunc in Portu Hafniensi (aut alibi N. N. est) ad se solum revera pertinere, jam vero Mercibus sibi soli propriis Edicto nostro Regio 1691 dato, nequaquam prohibitis, &amp; Hafniae (aut alibi in Regnis nostris uti &amp; in Mari Balti<g ref="char:EOLhyphen"/>co aut aliis Locis presenti Bello non implicitis (specificentur loca) Navi supradictae impositis, nec aliis onustam vel onerandam recta ex dectis locis Burdegalam (aut ad alia loca) in Gallia ituram, &amp; exinde Mercibus sibi etiam soli propriis nec aliis onu<g ref="char:EOLhyphen"/>stam in Portum Hafniensem (aut ad alia loca) Ditionum nostrarum extra Imperium Germanicum recta rever<g ref="char:EOLhyphen"/>suram, istam vero expeditionem sub ductu N. N. praedictae nostrae Civita<g ref="char:EOLhyphen"/>tis Regiae Hafniensis Incolae ac Ci<g ref="char:EOLhyphen"/>vis jurati, tanquam Navarchi per<g ref="char:EOLhyphen"/>ficiendam esse. Quae omnia &amp; singula cum praedicti subditi nostri coram Magistratu Hafniensi (in Cancella<g ref="char:EOLhyphen"/>ria Nostra) sub juramento juxta for<g ref="char:EOLhyphen"/>mam a nobis praescriptam assevera<g ref="char:EOLhyphen"/>verint, memoratam Navem hisce sal<g ref="char:EOLhyphen"/>vi Conductus Literis muniendam censuimus, <hi>&amp;c.</hi>
+                  </p>
+                  <pb n="8" facs="tcp:187478:5"/>
+                  <p>Nos Christianus Quintus (tot. Tit.) Quod subditi nostri A. B. E. F. &amp; a<g ref="char:EOLhyphen"/>lii quidam Cives &amp; Incolae Civitatis nostrae Regiae Hafniensis (N. N.) hu<g ref="char:EOLhyphen"/>millime nobis exponi curaverint, nec<g ref="char:EOLhyphen"/>non sub juramento coram Magistratu Hafniensi (in Cancellaria) assevera<g ref="char:EOLhyphen"/>verint Navem, &amp;c. ad se solos revera pertinere, jam vero Mercibus ad se solos etiam bona Fide pertinentibus, <hi>&amp;c,</hi> &amp; exinde Mercibus similiter ad se solos pertinentibus, <hi>&amp;c.</hi> Quae cum, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+            </div>
+            <div xml:lang="eng" type="version">
+               <pb n="1" facs="tcp:187478:1"/>
+               <head>In English.</head>
+               <div type="oath">
+                  <head>The Form of the Oath to be taken by the Owner of the Ship and Lading, if there be but one.</head>
+                  <p>
+                     <hi>I A. B.</hi> real Subject of his Sa<g ref="char:EOLhyphen"/>cred Royal Majesty of <hi>Den<g ref="char:EOLhyphen"/>mark</hi> and <hi>Norway,</hi> and sworn Bur<g ref="char:EOLhyphen"/>ger of the City of <hi>Copenhagen,</hi> (Officer) do truly and sincerely declare, and promise upon this my solemn Oath, all and every the Matters and Things hereafter following.</p>
+                  <div n="1" type="part">
+                     <pb n="2" facs="tcp:187478:2"/>
+                     <head>I.</head>
+                     <p>That the Ship called N. N. of the Burthen of 100 Lasts or thereabouts, doth really belong to me alone, wholly and entire<g ref="char:EOLhyphen"/>ly, and to no other Person.</p>
+                  </div>
+                  <div n="2" type="part">
+                     <head>II.</head>
+                     <p>That I have really purposed, and do certainly design, that the said Ship now lying at <hi>Copenha<g ref="char:EOLhyphen"/>gen,</hi> (or elsewhere <hi>N. N.</hi>) shall go from thence under the Con<g ref="char:EOLhyphen"/>duct of <hi>N. N.</hi> Inhabitant and sworn Burger of the said City of <hi>Copenhagen,</hi> (or <hi>N. N.</hi>) as Master directly (to <hi>Norway,</hi>) and from thence to <hi>Bourdeaux,</hi> or to other places in <hi>France;</hi> and from <hi>Bour<g ref="char:EOLhyphen"/>deaux</hi> (or other places) direct<g ref="char:EOLhyphen"/>ly return to the said Port of <hi>Co<g ref="char:EOLhyphen"/>penhagen,</hi> or any other Port be<g ref="char:EOLhyphen"/>longing to the Dominions of his Sacred Royal Majesty of <hi>Den<g ref="char:EOLhyphen"/>mark</hi> and <hi>Norway,</hi> situated out of the Roman Empire; and that from and after the time of her de<g ref="char:EOLhyphen"/>parture from <hi>Denmark</hi> or <hi>Norway,</hi> until she shall return thither a<g ref="char:EOLhyphen"/>gain, she shall not touch at any other place but <hi>France,</hi> unless compelled by stress of Weather.</p>
+                  </div>
+                  <div n="3" type="part">
+                     <pb n="3" facs="tcp:187478:2"/>
+                     <head>III.</head>
+                     <p>That I have not already made directly nor indirectly, any Collu<g ref="char:EOLhyphen"/>sive Agreement or Contract, with any Person, nor during the course of this present Voyage, will here<g ref="char:EOLhyphen"/>after make any with any Foreigner, or Burgher, or Inhabitant of any Places subject to the <hi>Roman Em<g ref="char:EOLhyphen"/>pire,</hi> for assigning or transferring the Property of the said Ship, or the Goods therein laden, in whole or in part, to any Person what<g ref="char:EOLhyphen"/>soever; nor will I make any such Agreement or Contract with any Subject of the most Serene and Potent King of <hi>Denmark</hi> and <hi>Nor<g ref="char:EOLhyphen"/>way,</hi> unless such Subject shall first oblige himself by the like Oath to observe all the Articles of this present Oath, as far as the same doth concern the thing which shall be transferred or assigned.</p>
+                  </div>
+                  <div n="4" type="part">
+                     <head>IV.</head>
+                     <p>That the said Ship is not now laden, nor shall hereafter (until this present Voyage shall be end<g ref="char:EOLhyphen"/>ed) be laden, with my Know<g ref="char:EOLhyphen"/>ledge, Order, Consent or Con<g ref="char:EOLhyphen"/>nivance, in whole or in part, with Contraband Goods prohibited by the Edict of his Sacred Royal Majesty of <hi>Denmark</hi> and <hi>Norway,</hi> dated the Day and Month, <hi>&amp;c.</hi> or any other, but such as do really belong to me alone, and to no other, without Fraud and Collusion, which Goods only, and no other, the said Ship shall carry into <hi>France,</hi> or bring from thence.</p>
+                  </div>
+                  <div n="5" type="part">
+                     <pb n="4" facs="tcp:187478:3"/>
+                     <head>V.</head>
+                     <p>That the said Ship shall not carry any Goods whatsoever to <hi>France,</hi> which were taken in at any places subject to the <hi>Empire,</hi> or to the Parties now in War; not shall unlade any Goods, once laden in <hi>France,</hi> in any other Port of <hi>France,</hi> or in the said places, sub<g ref="char:EOLhyphen"/>ject to the <hi>Empire,</hi> or to the Par<g ref="char:EOLhyphen"/>ties now in War, in her return, if by chance she should be com<g ref="char:EOLhyphen"/>pelled, by stress of Weather, to put into such Places.</p>
+                  </div>
+                  <div n="6" type="part">
+                     <head>VI.</head>
+                     <p>That I have not given, nor will, during the course of this present Voyage, give any Power or Authority to the said Master, or any other, to do any thing that may be in the least contrary to any of the said Articles; nor will, with my Knowledge, or Connivance, suffer any such thing to be done by any Person. So God me help and His Holy Word.</p>
+                  </div>
+               </div>
+               <div type="oath">
+                  <pb n="5" facs="tcp:187478:3"/>
+                  <head>The Form of the Oath to be made by the Master.</head>
+                  <p>I <hi>N. N.</hi> Master of the said Ship, real Subject of his Sacred Royal Majesty of <hi>Denmark</hi> and <hi>Norway,</hi> Inhabitant and sworn Burger of the City of <hi>Copenhagen,</hi> do truly declare and promise by this my solemn Oath, That nothing con<g ref="char:EOLhyphen"/>trary to any of the aforesaid Ar<g ref="char:EOLhyphen"/>ticles has been done, that I know of, and that nothing hereafter shall be done, with my know<g ref="char:EOLhyphen"/>ledge, or by my command, con<g ref="char:EOLhyphen"/>nivance or consent, directly or indirectly. So help me God, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="oath">
+                  <head>The Form of the Oath to be taken by the Owners, if more than one.</head>
+                  <p>We hereafter named, real Sub<g ref="char:EOLhyphen"/>jects of his Sacred Majesty the King of <hi>Denmark</hi> and <hi>Norway,</hi> In<g ref="char:EOLhyphen"/>habitants and sworn Burgers of <hi>Copenhagen,</hi> (Officers) do truly and sincerely declare and promise by this our solemn Oath, all and every the Matters hereafter fol<g ref="char:EOLhyphen"/>lowing.</p>
+                  <div n="1" type="part">
+                     <pb n="6" facs="tcp:187478:4"/>
+                     <head>I.</head>
+                     <p>That the Ship called the <hi>N. N.</hi> of the Burthen of 100 Lasts or thereabouts, doth really, whol<g ref="char:EOLhyphen"/>ly and totally belong to Us, and no others, in manner follow<g ref="char:EOLhyphen"/>ing, <hi>viz.</hi> to A. B. 1/9, to E. F. 2/9, to G. H. 4/9, and to I. K. 2/9.</p>
+                  </div>
+                  <div n="2" type="part">
+                     <head>II.</head>
+                     <p>That it is really agreed a<g ref="char:EOLhyphen"/>mongst Us, that the said Ship, <hi>&amp;c.</hi>
+                     </p>
+                  </div>
+                  <div n="3" type="part">
+                     <head>III.</head>
+                     <p>That none of Us hath already made, directly or indirectly, or will hereafter, during this pre<g ref="char:EOLhyphen"/>sent Voyage, make with any Person, any collusive Agreement or Contract concerning the transferring to any Person what<g ref="char:EOLhyphen"/>ever, our Share hereafter named of the said Ship or Lading.</p>
+                  </div>
+                  <div n="4" type="part">
+                     <head>IV.</head>
+                     <p>That the said Ship is not now, nor shall (untill this present Voy<g ref="char:EOLhyphen"/>age be ended) be Laden with the Knowledge or Consent, <hi>&amp;c.</hi> of Us, or of any of Us, with any Goods but such as do belong to Us alone, without, <hi>&amp;c. viz.</hi> to A. B. 10 Lasts, to L. M. 60 Lasts, and to O. P. 30 Lasts; and that the said Goods only, and no o<g ref="char:EOLhyphen"/>thers, <hi>&amp;c.</hi>
+                     </p>
+                     <p>The rest as in the same Form as above.</p>
+                     <p>
+                        <hi>Mutatis mutandis.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="form">
+                  <pb n="7" facs="tcp:187478:4"/>
+                  <head>The Form of a Pass.</head>
+                  <p>WE <hi>Christian</hi> the Fifth (the whole Title) To all and every Person and Persons, to whom these Our Letters of safe Conduct shall be exhibited, do make known and certifie, That Our Subject N. N. Inhabitant and sworn Burger of Our Royal City of <hi>Copenhagen</hi> (Our Officer) hath caused to be most humbly represented to Us, that the Ship called N. N. of the Burthen of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> Lasts, now lying in the Port of <hi>Copenhagen</hi> (or elsewhere N. N.) doth really belong to him alone, and is now laden with the Goods to him alone belonging, not pro<g ref="char:EOLhyphen"/>hibited by Our Royal Edict, Da<g ref="char:EOLhyphen"/>ted 1691, and put on Board at <hi>Copenhagen,</hi> or elsewhere in Our Kingdom; as also in the <hi>Baltick Seas,</hi> or other Places, not enga<g ref="char:EOLhyphen"/>ged in the present War (here the Places are to be specify'd) and not Laden, nor to be Laden with a<g ref="char:EOLhyphen"/>ny other Goods, is going direct<g ref="char:EOLhyphen"/>ly from the said Places to <hi>Bour<g ref="char:EOLhyphen"/>deaux</hi> (or to some other Place) in <hi>France,</hi> and from thence, Laden with the Goods likewise to him alone belonging, and no other, directly to return to the Port of <hi>Copenhagen</hi> (or to any other Pla<g ref="char:EOLhyphen"/>ces) of Our Dominions, out of the Roman Empire, and that the said Voyage shall be performed under the Conduct of N. N. In<g ref="char:EOLhyphen"/>habitant and sworn Burger of Our said Royal City of <hi>Copenhagen,</hi> &amp;c. as Master. All which Premises, Our said Subject having upon Oath affirmed before the Magistrate of <hi>Copenhagen</hi> (in Our Chancery) according to the Form by Us pre<g ref="char:EOLhyphen"/>scribed: We have thought fit to grant to the said Ship, these Our Letters of Safe Conduct, &amp;c.</p>
+                  <pb n="8" facs="tcp:187478:5"/>
+                  <p>We, <hi>Christian</hi> the Fifth (the whole Title) That Our Subjects A. B. E. F. and certain other Bur<g ref="char:EOLhyphen"/>gers, and Inhabitants of Our Roy<g ref="char:EOLhyphen"/>al City of <hi>Copenhagen</hi> (N. N.) have humbly represented unto Us, and have affirmed upon Oath before the Magistrates of <hi>Copenhagen</hi> (in Chancery) that the Ship, <hi>&amp;c.</hi> does really belong to them a<g ref="char:EOLhyphen"/>lone, and is now Laden with Goods, which also do <hi>bonà Fide</hi> belong to them alone, <hi>&amp;c.</hi> and thence, with Goods belonging likewise to them alone, <hi>&amp;c.</hi> which being, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div type="articles">
+            <pb n="9" facs="tcp:187478:5"/>
+            <head>COPY OF The 11<seg rend="sup">th</seg> and 12<seg rend="sup">th</seg> Articles of the Treaty with <hi>Sweden,</hi> concluded in 1661. With the Form of the <hi>PASSPORT</hi> or <hi>PASSE.</hi>
+            </head>
+            <div n="11" type="article">
+               <head>XI.</head>
+               <p>ALthough in the preceding Articles of this present Treaty it be forbidden to either Confederate, to yield any Aid, or Assistance to the Enemies of the other: Yet it is not to be so understood, as if either Confederate, having no War with the Enemies of the other, might not Sail to, or Traffick with the said Enemies, notwithstanding that the other Confederate be in Actual War with them: But it is only provided, that no Goods called Goods of Contraband, and particularly that no Mony, Provision, Weapons, Fire-Arms, with their Appurtenances, Fire-Balls, Gun-Powder, Match, Bullers, Spear-heads, Swords, Lances, Pikes, Halberds, Ordnance, Mortar-Pieces, Petards, Granadoes, Rests, Bandeleers, Salt Peter, Pistols, Small-shot, Pots, Head-Pieces, Backs and Breasts, or such kind of Armour, Soldiers, Horses, all Furniture necessary for Hor<g ref="char:EOLhyphen"/>ses, Holdsters, Belts, and whatsoever Warlike Instruments; as al<g ref="char:EOLhyphen"/>so, that no Ships of War, or Convoys, be Furnish'd to the Enemy without Peril, in case they be taken of being adjudg'd lawful Prize, without hope of Restitution: And neither of the Confederates shall suffer any of his Subjects, to give Aid, Sell, or lend Ships, or be any way useful to the Enemies, or Rebels of the other to his Prejudice, or Detriment. But it shall be lawful, for either Confe<g ref="char:EOLhyphen"/>derate, his People and Subjects, to have Commerce with the Ene<g ref="char:EOLhyphen"/>mies of the other, and to carry to them all kind of Merchandize, not before excepted, without any Lett, or Hindrance, unless it be into such Ports and Places as are Besieged by the other, and in such Case, it shall be lawful for them to Sell their Commodities to the Besiegers, or otherwise to betake themselves to any other Port which is not Besieged.</p>
+            </div>
+            <div n="12" type="article">
+               <pb n="10" facs="tcp:187478:6"/>
+               <head>XII.</head>
+               <p>BUT lest such Navigation and Entercourse of the one Confederate his People and Subjects by Land or Sea, with other Nations during the War of the other Confederate, should redound to the Prejudice of the said other Confederate; and lest Goods of Enemies should pass concealed, under the Name of Friends, for the removing of all suspicion and prevention of Fraud herein, it is agreed, that all Ships, Waggons, Wares and Men belonging to either Confederate, shall in their Passage have Letters of safe Conduct, commonly called Pasports and Certificates, whereof the hereunder written Forms, shall be Word for Word, Ob<g ref="char:EOLhyphen"/>served, and Subscribed, and Signed by the Chief Magistrate, or Head Commissioners of the Customs and Imposts of that Province and City whence they come, and the true Names of the Ships, Carriages, Wares, Masters of Ships, shall be specified; the Days also, and times, together with such other Descriptions as are ex<g ref="char:EOLhyphen"/>pressed in the following Form of a Certificate, shall without any Fraud be particularized: Wheresore, if any one, who upon the Faith of that Oath, whereby he is Bound to his Prince, State or City, shall affirm, that he hath alledged nothing but the Truth, and afterward be Convicted of willful Fraud in that Allegation, he shall be punished with severity, and as a Person Guilty of the Breach of that Oath.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="form">
+                           <p>VVEE <hi>N. N.</hi> Governour, or Chief Magistrate, or Commissioners of the Im<g ref="char:EOLhyphen"/>posts and Customs of the City, or Province of <hi>N.</hi> (putting the Title, or Office of the Respe<g ref="char:EOLhyphen"/>ctive Government of that place) do Certifie, that upon the <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> day of the Month of <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> in the year of our Lord <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap>
+                              <hi>N. N. N.</hi> Citi<g ref="char:EOLhyphen"/>zens and Inhabitants of <hi>N.</hi> and Subjects of his Majesty the King of <hi>Great Britain,</hi> or the King of <hi>Sweden,</hi> (as the Case shall happen) did personally appear before us in the City, or Town of <hi>N.</hi> under the Dominion of his Majesty the King of <hi>Great
+<pb n="11" facs="tcp:187478:6"/> Britain,</hi> or of his Majesty the King of <hi>Sweden,</hi> and did there upon the Faith of that Oath, whereby they are bound to his Majesty the King of <hi>Great Bri<g ref="char:EOLhyphen"/>tain</hi> our most Gracious Sove<g ref="char:EOLhyphen"/>reign, or to his Majesty the King of <hi>Sweden</hi> our most Gracious So<g ref="char:EOLhyphen"/>vereign, and to our City de<g ref="char:EOLhyphen"/>clare that the Ship, or Vessel called <hi>N.</hi> of <hi>N.</hi> Lasts, or Tons doth belong to the Port, City or Town of <hi>N.</hi> of the Dominion <hi>N.</hi> and that the said Ship doth properly, and of right appertain thereunto, or the Subjects of his Majesty the King of <hi>Great Britain,</hi> or the King of <hi>Sweden,</hi> but now from the Port <hi>N.</hi> is bound for <hi>N.</hi> freighted with the Goods following, <hi>Viz.</hi> (Here let the Goods be spe<g ref="char:EOLhyphen"/>cified with their Quantity and Quality) for Example, about so many Load or Packs; about so many Hogsheads, <hi>&amp;c.</hi> ac<g ref="char:EOLhyphen"/>cording as the Quantity, or Condition of the Merchandize shall be, and did affirm upon the aforesaid Oath, so much <hi>N.</hi> of the said Goods and Merchan<g ref="char:EOLhyphen"/>dize to belong to the Subjects▪ of the King of <hi>Great Britain,</hi> or of the King of <hi>Sweden,</hi> or so much <hi>N.</hi> unto <hi>N. N. N.</hi> (let it be expressed of what Country the Owners be) and that <hi>N. N. N.</hi> upon the Oath aforesaid, alledg<g ref="char:EOLhyphen"/>ed that the said Goods above specified, and no others were put, or to be put on Board the said Ship for that Voyage, and that no part thereof belongeth to any other than the Persons a<g ref="char:EOLhyphen"/>foresaid, and that therein there are no other Goods hidden un<g ref="char:EOLhyphen"/>der any False, or Counterfeit</p>
+                           <pb n="12" facs="tcp:187478:7"/>
+                           <p>Name whatsoever, but that the aforesaid Merchandize were tru<g ref="char:EOLhyphen"/>ly and really for the use of the said Owners and Proprietors, and no others, and that the said Master of the Ship Named <hi>N.</hi> is a Citizen of <hi>N.</hi> wherefore since upon strict inquiry, it is mani<g ref="char:EOLhyphen"/>fest to us, (the Governour, Chief Magistrate, or Commissioners of the Customs of the City afore<g ref="char:EOLhyphen"/>said) that the said Ship, or Ves<g ref="char:EOLhyphen"/>sel and Goods are free, and do really and truly belong to the Subjects of his Majesty of <hi>Great Britain,</hi> or his Majesty of <hi>Swe<g ref="char:EOLhyphen"/>den,</hi> or the aforesaid Inhabitants of other Countries: We do with all Respect humbly desire, all Powers by Land or Sea, Kings, Princes, Common-Wealths, Free-Cities; as also, all Generals, Admirals, General Officers, Governours of Ports, and all others to whom the Guard of any Port, or Sea is committed, who shall happen to meet this Ship under Sail, or into whose Fleet she shall fall, or in whose Ports she shall happen to stay; that in regard of the Friendship and Alliance which is between every of them, or their Superi<g ref="char:EOLhyphen"/>ors, and his Majesty of <hi>Great Britain</hi> our most Gracious Sove<g ref="char:EOLhyphen"/>reign, or his Majesty of <hi>Sweden</hi> our most Gracious Sovereign, that they would not only suffer and permit the said Master with the Ship <hi>N.</hi> the persons Goods and Merchandize belonging thereunto, without any lett or hindrance, freely to make his Voyage; but also (if he think covenient to go any where else from the said Port) that they would do him all Civil Offices,
+<pb n="13" facs="tcp:187478:7"/> as a Subject of his Majesty the King of <hi>Great Britain,</hi> or of the King of <hi>Sweden,</hi> expecting the like Returns from his Majesty the King of <hi>Great Britain,</hi> or his Majesty the King of <hi>Sweden,</hi> his Officers and Subjects in the like, or other Case. In Witness whereof, we have Subscribed these Presents, and Sealed the same with the Common Seal of our City, Dated, <hi>&amp;c.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="lat">
+                     <body>
+                        <div type="form">
+                           <pb n="10" facs="tcp:187478:6"/>
+                           <p>NOS N. N. <hi>Gubernator aut▪ Supremus Magistrat<gap reason="illegible" resp="#uom" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>s, aut▪ Teloniorum &amp; Custumarum Com<g ref="char:EOLhyphen"/>missarii Civitatis vel Provinciae</hi> N. (<hi>apposito Titulo aut Officio respectivi Gubernamenti illius lo<g ref="char:EOLhyphen"/>ci) notum testatumque facimus quod <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap> die <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap> Mensis <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap> Anni <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap> Personaliter coram nobis comparue<g ref="char:EOLhyphen"/>rint in Civitate aut Oppido</hi>-N. <hi>ditio<g ref="char:EOLhyphen"/>nis Sacrae Regiae Majestatis Magnae Britanniae vel Sacrae Regiae Ma<g ref="char:EOLhyphen"/>jestatis Sueciae (quemadmodum casus fuerit)</hi> N. N. N. <hi>Cives &amp; Inhabitantes in</hi> N. <hi>ac subditi Sa<g ref="char:EOLhyphen"/>crae Regiae Majestatis Magnae</hi>
+                              <pb n="11" facs="tcp:187478:6"/>
+                              <hi>Britanniae vel Sacrae Regiae Majesta<g ref="char:EOLhyphen"/>tis Sueciae, atque sub fide illius ju<g ref="char:EOLhyphen"/>ramenti quo Sacrae Regiae Majesta<g ref="char:EOLhyphen"/>ti Magnae Britanniae Domino no<g ref="char:EOLhyphen"/>stro Clementissimo, &amp; Civitati no<g ref="char:EOLhyphen"/>strae, ac Sacrae Regiae Majestati Sueciae Domino nostro Clementis<g ref="char:EOLhyphen"/>simo, &amp; Civitati nostrae attinentar &amp; obstricti sunt nobis Declarave<g ref="char:EOLhyphen"/>rint, quod Navis aut Navigium</hi> N. <hi>dictum</hi> N. N. <hi>Lastarum aut tonnarum capax, pertineat ad Portum, Civitatem, aut Oppidum</hi> N. <hi>ditionis</hi> N. <hi>quodque dicta Na<g ref="char:EOLhyphen"/>vis ejus aut subditorum Sacrae Regiae Majestatis Magnae Britanniae vel Sacrae Regiae Majestatis Sueciae ju<g ref="char:EOLhyphen"/>sto titulo propria sit, jam vero de Portu</hi> N. <hi>iter vel itinera directe distinasse ad</hi> N. <hi>sequentibus onustam mercibus videlicet. (Hic specisicen<g ref="char:EOLhyphen"/>tur bona cum quantitate ac qua<g ref="char:EOLhyphen"/>litate eorum. Exempli Gratia; tot circiter plaustra vel in<g ref="char:EOLhyphen"/>volucra, tot circiter dolia,</hi> &amp;c. <hi>Quemadmodum quantitas &amp; Conditio Mercium fuerit) Iidem{que} asseveraverint sub juramento predi<g ref="char:EOLhyphen"/>cto tantum</hi> N. <hi>ex dictis Bonis mercibusque ad subditos Sacrae Re<g ref="char:EOLhyphen"/>giae Majestatis Magnae Britanniae, vel Sacrae Regiae Majestatis Sue<g ref="char:EOLhyphen"/>ciae vel tantium</hi> N. <hi>ad</hi> N. N. N. <hi>(cujuscunque Nationis Possessores fuerint exprimatur) pertinere quod<g ref="char:EOLhyphen"/>que</hi> N. N. N. <hi>sub fide dicti Jura<g ref="char:EOLhyphen"/>menti affirmaverint dicta bona superius specificata &amp; non alia esse imposita aut imponenda in preno<g ref="char:EOLhyphen"/>minatam Navem pro dicto itinere &amp; quod nulla pars eorum bono<g ref="char:EOLhyphen"/>rum ad alium quemquam pertine<g ref="char:EOLhyphen"/>at quam hosce supradictos neque in illa sub quocunque fictiti<gap reason="illegible" resp="#uom" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </hi>
+                           </p>
+                           <pb n="12" facs="tcp:187478:7"/>
+                           <p>
+                              <hi>Nomine alia bona colarata aut ce<g ref="char:EOLhyphen"/>lata sint, sed vere ac realiter pre<g ref="char:EOLhyphen"/>nominatas Merces in usum dicto<g ref="char:EOLhyphen"/>rum proprietariorum impositas esse &amp; non aliorum, quodque dictae Navis Navarchus nominatus</hi> N. <hi>Civis fit Civitatis</hi> N. <hi>Idcirco cum post exa<g ref="char:EOLhyphen"/>ctam Examinationem nobis supradi<g ref="char:EOLhyphen"/>ctis (Gabernatori aut supremo Magi<g ref="char:EOLhyphen"/>stratui, aut teloniorum &amp; Custuma<g ref="char:EOLhyphen"/>rum Commissariis Civitatis supradi<g ref="char:EOLhyphen"/>ctae) sufficienter constet, dictam Navem aut Navigium bona{que} imposita libera esse &amp; vere ac realiter pertinere ad subditos Sacrae Regiae Majestatis Magnae Britanniae, vel Sacrae Regiae Magistatis Sueciae, vel aliarum Nationum incolas supradictos, Ab omnibus proinde ac fingulis terra<g ref="char:EOLhyphen"/>rum Mariumque Potestatibus, Regibus, Principibus, Rebus<g ref="char:EOLhyphen"/>publicis, ac Liberis Civitatibus, necnon Bellorum Ducibus, Tha<g ref="char:EOLhyphen"/>lassiarchis, Generalibus, Officiali<g ref="char:EOLhyphen"/>bus, portuum{que} Praefectis, aliis{que} om<g ref="char:EOLhyphen"/>nibus quibus Custodia aliqua Portus aut Maris Comissa est, quibnscunque, Navem hanc Navigando obviam venire, quorumque in Classes forte incidere &amp; tranfire, aut in portu<g ref="char:EOLhyphen"/>bus morari contigerit humilime &amp; efficiose requirimus, ut ratione foederum &amp; amicitiae quae respe<g ref="char:EOLhyphen"/>ctive unicuique aut superioribus cujuscunque est, ac cum Sacra Regia Majestate Magnae Britanniae Rege ac Domino nostro Clementissi<g ref="char:EOLhyphen"/>mo vel cum Sacra Regia Majestate Succiae Rege ac Domino nostro Clementissimo intercedit dictum Navarchum cum Navi.</hi> N. <hi>&amp; per<g ref="char:EOLhyphen"/>sonis, Rebus, ac mercimoniis ad eandem spectantibus, non modo si<g ref="char:EOLhyphen"/>ne impedimento ac molestiis iter suum libere prosequi permittant, sed etiam si ex dicto portu alio quovis tendere commodum duxcrit, ei tan<g ref="char:EOLhyphen"/>quam
+<pb n="13" facs="tcp:187478:7"/> Sacrae Regiae Majestati Mag<g ref="char:EOLhyphen"/>nae Britanniae vel Sacrae Regiae Ma<g ref="char:EOLhyphen"/>jestati Sueciae subdito, cum Navi sua omnia humanitatis Officia exhi<g ref="char:EOLhyphen"/>beant, eadem vicissim a Sacra Regia Majestate Magnae Britanniae, vel à Sacra Regia Majestate Sueciae, omnibus{que} ejus ministris ac subditis in pari vel alio casu experturi. In cujus rei fidem presentes manu nostra subscriptas Civitatis nostrae Sigillo muniri curavimus Dabantur,</hi> &amp;c.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Whenever therefore any the Merchandize, Goods, Vessels, or Men belonging to either their People, and Subjects shall be met with, either in open Sea, or in any Channel, Haven, Road, Land, or any other Place by the Ships of War, Publick or Private, or by any the People, Subjects, and Inhabitants of the other, or shall happen to be in one place with them, they producing their Letters of safe Conduct, and Certificates aforesaid, shall have nothing fur<g ref="char:EOLhyphen"/>ther exacted of them; no search made, either of Goods, Vessels or Men, much less shall they receive any Damage, Injury or Mo<g ref="char:EOLhyphen"/>lestation, but shall be suffered to pass on with Freedom to pursue their Occasions; but if this Stated and Appointed Form of Certi<g ref="char:EOLhyphen"/>ficate be not produced, and there be just Cause of suspicion, then the Ship ought to be Visited which (it is to be understood) shall be allowed only in such and no other Case: And if any the People and Subjects of either side, shall do, or commit any thing contrary to the proper sense of this present Article, either Confederate shall take Care, that severe Punishment be inflicted on the Offender, and cause full and speedy satisfaction to be made to the Parties Wronged, for all Costs and Damages.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
